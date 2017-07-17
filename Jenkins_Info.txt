@@ -1,0 +1,23 @@
+GitHub
+----------------------
+User Name : arghaadp
+Password   : Adp357572
+https://github.com/arghaadp/ecm.git
+
+git config --global user.name "arghaadp"
+git config --global user.email argha.adp@gmail.com
+
+
+git clone https://github.com/arghaadp/ecm.git
+
+git init
+
+git add <filename.txt>
+
+git commit -m "first commit"
+
+git status
+
+git push -u origin master
+
+
